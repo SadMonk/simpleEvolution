@@ -26,11 +26,9 @@ CONFIG += c++11
 
 SOURCES += \
         main.cpp \
-        mainwindow.cpp \
         seeker.cpp
 
 HEADERS += \
-        mainwindow.h \
         seeker.h
 
 # Default rules for deployment.
